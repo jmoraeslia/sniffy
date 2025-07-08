@@ -1,2 +1,9 @@
 .venv/
 mitmproxy-ca-cert.pem
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.json
+*.log
+*.vscode
